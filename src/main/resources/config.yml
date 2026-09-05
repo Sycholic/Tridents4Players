@@ -1,0 +1,5 @@
+# Trident Configuration file true or false, invalid values default false.
+# Hardmode enabled means you have to kill the thrower first before picking them up.
+# Breakable enabled means there is a 50/50 chance the trident breaks.
+hardmode-Enabled: false
+breakable-Enabled: false
